@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace dag13
+namespace dag13_opgave1
 {
     internal class Program
     {

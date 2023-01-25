@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dag13
+namespace dag13_opgave1
 {
     internal class Person
     {

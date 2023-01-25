@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{65F6BA06-5109-4CBC-87CA-3FE5A264592B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>dag13</RootNamespace>
-    <AssemblyName>dag13</AssemblyName>
+    <RootNamespace>dag13_opgave1</RootNamespace>
+    <AssemblyName>dag13_opgave1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
