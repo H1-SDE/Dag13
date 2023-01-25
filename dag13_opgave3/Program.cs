@@ -4,14 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dag13_opgave4
+
+namespace dag13_opgave3
 {
     internal class Program
     {
+        static StudentProfessorTest studentProfessor = new StudentProfessorTest();
         static void Main(string[] args)
         {
-            PhotoBookTest album = new PhotoBookTest();
-            Console.ReadLine();
+            studentProfessor.main();
         }
     }
 }
