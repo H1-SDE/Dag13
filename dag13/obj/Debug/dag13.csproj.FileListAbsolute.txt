@@ -1,0 +1,8 @@
+C:\Users\HFGF\source\repos\H1-SDE\dag13\dag13\bin\Debug\dag13.exe.config
+C:\Users\HFGF\source\repos\H1-SDE\dag13\dag13\bin\Debug\dag13.exe
+C:\Users\HFGF\source\repos\H1-SDE\dag13\dag13\bin\Debug\dag13.pdb
+C:\Users\HFGF\source\repos\H1-SDE\dag13\dag13\obj\Debug\dag13.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\H1-SDE\dag13\dag13\obj\Debug\dag13.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\source\repos\H1-SDE\dag13\dag13\obj\Debug\dag13.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\H1-SDE\dag13\dag13\obj\Debug\dag13.exe
+C:\Users\HFGF\source\repos\H1-SDE\dag13\dag13\obj\Debug\dag13.pdb
