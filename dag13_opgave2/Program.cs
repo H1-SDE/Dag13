@@ -1,9 +1,9 @@
-﻿using System;
+﻿using dag13_opgave1;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Threading;
 
 namespace dag13_opgave2
 {
@@ -11,20 +11,22 @@ namespace dag13_opgave2
     {
         static void Main(string[] args)
         {
+            Person person = new Person();
+
             List<Person> personer = new List<Person>();
 
             for (int i = 0; i < 3; i++)
             {
-                string line = Console.ReadLine();
-                Person p = new Person(line);
-                personer.Add(p);
+                person.Name = Console.ReadLine();
+                personer.Add(person);
             }
 
-            foreach (Person i in personer)
+            foreach (Person person_print in personer)
             {
-                Console.WriteLine(i);
+                Console.WriteLine("Hello! My name is " + person_print.Name);
             }
             Console.ReadLine();
         }
+    }
     }
 }
